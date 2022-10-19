@@ -1,6 +1,7 @@
-=============Team Project (Print f)==============
+=============Team Project (Printf)==============
+Creating our own printf function
 
-                       -Carol & Curtis-
+                       -Caroline & Curtis-
 
                           @Ckimatu.
                          @muasyasila.
