@@ -1,11 +1,11 @@
 ============================Team Project (Printf)=================================
 
-                            -Caroline & Curtis-
+                                   -Caroline & Curtis-
 
-                                  @Ckimatu.
-                                 @muasyasila.
+                                        @Ckimatu.
+                                       @muasyasila.
 
-                               Date: 19/10/2022.
+                                     Date: 19/10/2022.
 
------------------------------ALL RIGHTS RESERVED 2022.-----------------------------
+---------------------------------ALL RIGHTS RESERVED 2022.--------------------------------
 
